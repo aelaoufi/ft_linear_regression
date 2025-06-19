@@ -90,7 +90,7 @@ $ python3 predict.py
 ⚠️ Warning: Inputing a mileage that is outside the range of training data might provide innacurate results.
  Range : 22899 to 240000.
 Enter the mileage in Km : 100000
-The estimated price is : 6417.85
+The estimated price is : 6257.55
 ```
 
 ## Requirements
